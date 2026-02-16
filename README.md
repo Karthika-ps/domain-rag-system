@@ -35,7 +35,7 @@ User Query
 ---
 
 ## 📂 Project Structure
-
+```text
 domain-rag-assistant/
 │
 ├── src/
@@ -53,7 +53,7 @@ domain-rag-assistant/
 ├── requirements.txt
 ├── Dockerfile
 └── README.md
-
+```
 ---
 
 ## 🔎 Retrieval Engineering
