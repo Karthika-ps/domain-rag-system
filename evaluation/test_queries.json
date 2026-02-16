@@ -1,0 +1,19 @@
+[
+    {
+      "question": "What operational risks were identified in the report?",
+      "expected_keywords": ["risk", "operational", "resilience", "security"]
+    },
+    {
+      "question": "What cyber threats were discussed?",
+      "expected_keywords": ["cyber", "threat", "security"]
+    },
+    {
+      "question": "What is mentioned about financial governance?",
+      "expected_keywords": ["financial", "governance", "controls"]
+    },
+    {
+      "question": "What strategic priorities were highlighted?",
+      "expected_keywords": ["strategic", "priority"]
+    }
+  ]
+  
